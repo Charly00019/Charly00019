@@ -1,5 +1,4 @@
-
-Hi, I am DevOps Engineer 👋
+👋
 Welcome to my GitHub profile!
 I am currently DevOps Engineer.
 
@@ -7,15 +6,24 @@ I am currently DevOps Engineer.
 Cloud: AWS,AZURE
 Automation: AWS CloudFormation, Terraform, GitHub Actions
 Containerization: Docker, Docker Compose, Kubernetes
+Software Development: JavaScript, Flutter
 Mobile CI/CD: 
-Security: 
+Security: Agentic Red-Team Pentester, CyberOps associate
+HardWare Expect
 🌟 What I Do
-Design and implement cloud infrastructure using AWS services.
-Automate deployment processes with Terraform and AWS CloudFormation.
-Build and manage Docker containers and Kubernetes clusters.
-Develop CI/CD pipelines for Android and iOS apps using Flutter and Fastlane.
-Prioritize security in all aspects of development and deployment.
+. Design and implement cloud infrastructure using AWS services.
+. Automate deployment processes with Terraform and AWS CloudFormation.
+. Build and manage Docker containers and Kubernetes clusters.
+. Develop CI/CD pipelines for Android and iOS apps using Flutter and Fastlane.
+. Prioritize security in all aspects of development and deployment.
 📈 GitHub Stats
+
+PERSONAL PROJECTIONS
+. Development of Social Media Aggregator "SOCIALS"
+. SETTING UP RED-TEAM AUTONOMOUS AGENT "SARVIOUR"
+. WAITING FOR PROBLEMS THAT WILL NEED MY ASSISTANCE
+. 
+
 
 📫 Let's Connect
 LinkedIn: https://www.linkedin.com/in/andrews-obeng-b1b905282/
